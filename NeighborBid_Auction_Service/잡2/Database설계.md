@@ -1,5 +1,5 @@
 ### 경매 테이블 구조
-<img src="/NeighborBid_Auction_Service/images/database_1차.png" width="100%">
+<img src="/NeighborBid_Auction_Service/images/All_database.png" width="100%">
 
 ### 테이블 설계 
 1. Domain-Driven Design (DDD) / 비즈니스 로직을 중심으로 설계
